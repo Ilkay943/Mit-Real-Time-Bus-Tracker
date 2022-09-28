@@ -10,3 +10,8 @@ Finally, we created a button that follows bus stops thru the way between Harvard
 ## How to Run
 
 First you should clone repository and then open the index.htmk in your browser. It will show movement of bus between Mit and Harvard Campuses in Boston.
+
+## Further Improvments
+
+With our map token we can apply different cities and different bus stops on this exercise. Also we can create a personolized bus tracking website.
+
